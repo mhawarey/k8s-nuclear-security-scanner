@@ -1,0 +1,32 @@
+# Generated reports
+*.json
+*.yaml
+*.csv
+*.text
+*.txt
+
+# PDF reports
+*.pdf
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
