@@ -97,7 +97,7 @@ Nuclear Security Level Impact:
 
 ## Disclaimer
 
-This tool simulates nuclear facility Kubernetes environments for security assessment demonstration purposes. It is not certified for use in actual nuclear facility environments. Real nuclear facility deployments require additional regulatory approval and validation.
+Please, pay attention: this is a simulation code. The tool simulates nuclear facility Kubernetes environments for security assessment demonstration purposes. It is not certified for use in actual nuclear facility environments. Real nuclear facility deployments require additional regulatory approval and validation.
 
 ## Author
 
