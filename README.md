@@ -1,5 +1,7 @@
 # Kubernetes Security Scanner for Nuclear Facilities
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **IAEA NSS-17 Compliance Scanner for Container Orchestration Environments**
 
 An advanced security scanning and compliance assessment tool implementing IAEA Nuclear Security Series (NSS-17) guidelines for Kubernetes environments at nuclear facilities. The scanner enforces defense-in-depth security principles, performs automated risk assessment with nuclear facility-specific threat modeling, and generates compliance reports against multiple international frameworks.
@@ -102,6 +104,7 @@ Please, pay attention: this is a simulation code. The tool simulates nuclear fac
 ## Author
 
 **Dr. Mosab Hawarey**
+>
 PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MBA (Wales) | BSc, MSc (METU)
 
 - GitHub: https://github.com/mhawarey
